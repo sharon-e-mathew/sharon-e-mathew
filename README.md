@@ -96,7 +96,7 @@ learning:        [k6 performance testing, AI evaluation methods]
 | Jan 2021 → Mar 2022 | QA Engineer | Agdhi | India 🇮🇳 |
 | Oct 2019 → Dec 2019 | Software Testing Intern | SMEC Automation | India 🇮🇳 |
 
-> 🌟 **At Tandem:** QA across 4 customer-facing products (web, Android, iOS, AI) · Built Playwright + TypeScript automation from scratch · Built MCP servers, Agent Skills and a Slack bot to speed up the team · Onboarded and mentored new QA team members
+> 🌟 **At Tandem:** QA across 7+ customer-facing products (web, Android, iOS, AI) · Built Playwright + TypeScript automation from scratch · Built MCP servers, Agent Skills and a Slack bot to speed up the team · Onboarded and mentored new QA team members
 
 ![](https://img.shields.io/badge/Experience-4%2B%20years-2EAD33?style=for-the-badge)
 ![](https://img.shields.io/badge/Roles-7-blue?style=for-the-badge)
