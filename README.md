@@ -1,11 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2EAD33&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sharon+%F0%9F%91%8B;QA+Automation+Engineer+%F0%9F%A7%AA;Playwright+%C2%B7+Selenium+%C2%B7+XCTest;Building+AI-native+QA+workflows+%F0%9F%A4%96;Quality+from+day+one)](https://github.com/sharonashik)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2EAD33&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sharon+%F0%9F%91%8B;QA+Automation+Engineer+%F0%9F%A7%AA;Playwright+%C2%B7+Selenium+%C2%B7+XCTest;Building+AI-native+QA+workflows+%F0%9F%A4%96;Quality+from+day+one)](https://github.com/sharon-e-mathew)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharonelsamathew/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharonelsa.nz@gmail.com)
 ![Auckland](https://img.shields.io/badge/Auckland%20%F0%9F%87%B3%F0%9F%87%BF-blue?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=sharonashik&label=Profile%20views&color=2EAD33&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=sharon-e-mathew&label=Profile%20views&color=2EAD33&style=for-the-badge)
 
 </div>
 
@@ -28,11 +28,11 @@ I don't just use AI tools in testing. I build them into the workflow.
 | | What | How |
 |---|---|---|
 | 🔌 | **Custom MCP servers** | Connect Claude directly to Testmo (test management) and the iOS Simulator (mobile testing) |
-| 🧠 | **Claude Agent Skills for QA** | `test-case-writer` · `bug-report-writer` · `api-test-designer` · `playwright-test-generator` · `regression-checklist-builder` |
+| 🧠 | **[Claude QA Skills](https://github.com/sharon-e-mathew/claude-qa-skills)** (public) | 14 skills for bug reproduction, triage, test case writing, test planning and Playwright: `qa-write-test-cases` · `bug-reproduction` · `qa-thinking` · `negative-test-generator` · `pr-test-impact-analyzer` and more |
 | 💬 | **Slack Feature Bot** | Brings Linear feature data into Slack for the product team. Node.js, Slack Bolt, Linear GraphQL API, deployed on Railway |
 | ⚖️ | **Testing AI features** | AI translation testing and LLM-as-judge evaluation for AI output quality |
 
-*Most of this lives in private or work repos. Happy to walk through any of it in a chat.*
+*My [Claude QA Skills](https://github.com/sharon-e-mathew/claude-qa-skills) are public. The rest lives in private or work repos. Happy to walk through any of it in a chat.*
 
 ## 🔬 From Research to Practice
 
@@ -106,8 +106,8 @@ learning:        [k6 performance testing, AI evaluation methods]
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharonashik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonashik&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharon-e-mathew&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharon-e-mathew&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ## 📬 Let's Talk
