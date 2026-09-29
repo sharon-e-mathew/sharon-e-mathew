@@ -94,7 +94,7 @@ learning:        [k6 performance testing, AI evaluation methods]
 | Mar 2023 → Nov 2023 | QA Engineer | Cyber Sapient | India 🇮🇳 |
 | Apr 2022 → Mar 2023 | QA Engineer | Innovation Incubator Advisory | India 🇮🇳 |
 | Jan 2021 → Mar 2022 | QA Engineer | Agdhi | India 🇮🇳 |
-| Oct 2019 → Dec 2019 | Software Testing Intern | SMEC Automation | India 🇮🇳 |
+| Jul 2020 → Dec 2020 | Software Testing Intern | SMEC Automation | India 🇮🇳 |
 
 > 🌟 **At Tandem:** QA across 7+ customer-facing products (web, Android, iOS, AI) · Built Playwright + TypeScript automation from scratch · Built MCP servers, Agent Skills and a Slack bot to speed up the team · Onboarded and mentored new QA team members
 
